@@ -1,0 +1,4 @@
+({10::__mywc/subject/copyright__|2::__mywc/subject/copyright-pickup__|1::__mywc/subject/original__}:1.2),
+{|{|light }smile},
+({4::__mywc/fashion/costumes/random__|1::__mywc/fashion/boots-setups/list/*__}:1.2),
+__mywc/meta/boilerplate/code__,
