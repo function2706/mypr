@@ -5,4 +5,4 @@ extra hands,missing hand,bad arm,extra arms,missing arm,
 (amputee),(bad anatomy),(extra limbs),(missing limb),multiple heads,
 motion lines,speed lines,3d,((shiny skin)),worst detail,text,logo,cropped,deformed,blurry,
 ((footjob)),(sharp fingernails),
-worst quality,low quality,
+worst quality,low quality
