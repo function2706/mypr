@@ -1,4 +1,0 @@
-(alice margatroid:1.2),
-{|{|light }smile},
-({4::__mywc/fashion/random__|4::__mywc/fashion/costumes/random__|1::__mywc/fashion/boots-setups/list/*__}:1.2),
-__mywc/meta/boilerplate/code__,
