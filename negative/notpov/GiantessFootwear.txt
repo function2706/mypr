@@ -1,4 +1,4 @@
-(barefoot:1.5),(multiple girls:1.2),(multiple boys:1.2),
+(barefoot:1.5),(multiple girls:1.2),(multiple boys:1.2),(mini girl:1.2),
 (extra feet:1.2),(missing foot),(bad leg),(extra legs:1.2),(missing leg),
 (extra digits),fewer digits,missing digits,bad hands,mutated hands,
 extra hands,missing hand,bad arm,extra arms,missing arm,
